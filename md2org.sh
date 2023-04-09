@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env sh
 
 # Check if input file is provided
 if [ "$#" -ne 1 ]; then
